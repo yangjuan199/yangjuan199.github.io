@@ -1,4 +1,4 @@
-  - title: 开始
+- title: 开始
   url: "/"
   side: left
 
@@ -10,44 +10,44 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "网格和颜色"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "排版"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "页面/帖子"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "后左侧边栏"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
+  - title: "后右侧边栏"
     url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
+  - title: "页面全宽"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
+  - title: "博客页面"
     url: "/blog/"
-  - title: "Video"
+  - title: "视频"
     url: "/design/video/"
-  - title: "Gallery"
+  - title: "画廊"
     url: "/design/gallery/"
-  - title: "Portfolio"
+  - title: "文件夹"
     url: "/design/portfolio/"
 
 - title: "标题样式"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "带有全宽图像的标题"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "带有图像和图案的标题"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "带有图像和颜色的标题"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
+  - title: "仅带徽标的页眉"
     url: "/design/header-logo-only/"
-  - title: "Header With Text"
+  - title: "带有文本的标题"
     url: "/design/header-with-text/"
-  - title: "No Header"
+  - title: "无标题"
     url: "/design/no-header/"
-  - title: "No Header but Image"
+  - title: "没有标题但有图像"
     url: "/design/no-header-but-image/"
 
 - title: 文档
