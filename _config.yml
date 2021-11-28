@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: '杨娟的个人网站'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: '杨娟的个人网站'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -21,7 +21,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: 杨娟
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'zh'
 
 
 # Used › default.html front-matter and compress.html
